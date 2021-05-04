@@ -1,0 +1,33 @@
+[ 
+ { 
+  "id": 1,
+  "type": "fruits",
+  "price": "100"
+  },
+  { 
+  "id": 1,
+  "type": "dairy",
+  "price": "200"
+  },
+  { 
+  "id": 1,
+  "type": "vegetables",
+  "price": "300"
+  },
+  { 
+  "id": 1,
+  "type": "grains",
+  "price": "1000"
+  },
+  { 
+  "id": 1,
+  "type": "bakery",
+  "price": "50"
+  },
+  { 
+  "id": 1,
+  "type": "poultry, fish & meat",
+  "price": "500"
+  }
+ ]
+  
